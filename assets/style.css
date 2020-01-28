@@ -89,6 +89,7 @@ body {
     line-height: 1.6;
     color: var(--clr-darkgray);
     background: var(--clr-lightgray);
+    margin: 0;
 }
 
 
