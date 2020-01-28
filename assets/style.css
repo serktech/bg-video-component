@@ -12,7 +12,7 @@
 }
 
 
-/* styling each component by defining the custom properties optional */
+/* styling each component by defining the custom properties optional test */
 
 .introduction {
     --title-size: calc(2rem + 5vw);
